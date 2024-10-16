@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Vector_1L\bin\Debug\Vector_1L.exe.config
+C:\Users\User\source\repos\Vector_1L\bin\Debug\Vector_1L.exe
+C:\Users\User\source\repos\Vector_1L\bin\Debug\Vector_1L.pdb
+C:\Users\User\source\repos\Vector_1L\obj\Debug\Vector_1L.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Vector_1L\obj\Debug\Vector_1L.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vector_1L\obj\Debug\Vector_1L.exe
+C:\Users\User\source\repos\Vector_1L\obj\Debug\Vector_1L.pdb
